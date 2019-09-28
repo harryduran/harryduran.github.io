@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Harry Duran Ascended Master, Launches Site"
+title: "Harry Duran, Launches Site"
 date: 2019-09-28
 ---
 
