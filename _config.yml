@@ -1,3 +1,4 @@
 name: Harry Duran, Eternal Student
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+  - jekyll-sitemap
