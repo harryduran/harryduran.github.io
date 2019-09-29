@@ -1,4 +1,6 @@
 name: Harry Duran, Eternal Student
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+url: "http://harryduran.com" # the base hostname & protocol for your site
+plugins:
   - jekyll-sitemap
